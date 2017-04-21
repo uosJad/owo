@@ -8,10 +8,9 @@ __aaa__
 _bbb_
 this is *italic*
 
-https://github.com/uosJad/owo
 [link to crap](https://github.com/uosJad/owo)
 
-
+Format: ![Alt Text](https://media.giphy.com/media/3rgXByB0tbT7oXK7Xq/giphy.gif)
 
 * item
 * item

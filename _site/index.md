@@ -8,10 +8,9 @@ __aaa__
 _bbb_
 this is *italic*
 
-
 [link to crap](https://github.com/uosJad/owo)
 
-
+Format: ![Alt Text](https://media.giphy.com/media/3rgXByB0tbT7oXK7Xq/giphy.gif)
 
 * item
 * item
@@ -21,3 +20,26 @@ this is *italic*
 1. wow order
 1. more order
   1. wowiewowow
+
+look:
+> im special
+
+`inline code or something`
+
+```
+whoa
+```
+
+- [x] doing crap
+- [ ] done that
+- [x] ezpz
+
+X | Y
+- | -
+testsetsetset | function!
+testsetsetset | function!
+testsetsetset | function!
+
+lol dang ~~who's this~~
+:fire:
+:fire:
