@@ -8,7 +8,7 @@ __aaa__
 _bbb_
 this is *italic*
 
-[link to crap](https://github.com/uosJad/owo)
+[to next page](https://github.com/uosJad/owo/test/page1.md)
 
 Format: ![Alt Text](https://media.giphy.com/media/3rgXByB0tbT7oXK7Xq/giphy.gif)
 
